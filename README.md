@@ -5,7 +5,7 @@ This is a Git repository to show my projects! Please take a look and feel free t
 
 - *KlicksRedesign* is a website created to test a redesign of Klicks, a website that allows for student input/interactions while in class. The redesign was tested for usability and ease of access. These tests are recorded in *UsabilityStudyReport*.
 
-- *ASL_App* is a phone application that helps the user learn ASL (American Sign Language) using Swift. The app has a mode that cycles through images of ASL letters spelling a word. The user must input the word shown to them after all images have been cycled through. The speed in which the images change can be set by the user using a slider. Another mode is one that shows a word/phrase and the user must select the correct image of ASL that translates to the shown word/phrase. The app also has flashcards, a dictionary or words/phrases in the app, and links to ASL learning videos.
+- *ASL_App* is a phone application that helps the user learn ASL (American Sign Language) using Swift. The app has a mode that cycles through images of ASL letters spelling a word. The user must input the word shown to them after all images have been cycled through. The speed in which the images change can be set by the user using a slider. Another mode is one that shows a word/phrase and the user must select the correct image of ASL that translates to the shown word/phrase. The app also has flashcards, a dictionary on words/phrases in the app, and links to ASL learning videos.
  
 - *projectScheduler* is a Python project that I created in order to practice unit and integration testing. The project allows users to create a scuedule for personal project and set up events on a calender. 
 
